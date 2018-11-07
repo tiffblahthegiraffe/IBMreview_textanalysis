@@ -1,5 +1,8 @@
 # IBM Review Text Analysis
 
+## Data:
+Use the glassdoor_scrapper.py to scrap down ibm company reviews.
+
 ## Objective: 
 1. Comparing employee reviews with company mission statements
 2. Evaluating sentiment scores across Job Titles and Locations
