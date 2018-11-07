@@ -11,7 +11,7 @@ Following are the different pieces of analysis we did in order to evaluate how e
 
 Which are the most frequently occuring words when employees discuss the pros and cons of their respective companies?
 
-[Code here](https://github.com/abhinaya08/text_analytics/blob/master/Project/1_wordcloud.ipynb)
+[Code here](https://github.com/tiffblahthegiraffe/IBMreview_textanalysis/blob/master/1_wordcloud.ipynb)
 
 ### 2. Lift: 
 
@@ -34,19 +34,19 @@ Calculate lift scores by interacting "Pros and Cons Attributes" with "Company Ca
 2. Get POS, lemmentize and find pros_attibutes/ cons_attributes by getting adj POS
 3. categorize reviews into 5 categories which match to glassdoor's rating categories and check their lift with pros and cons
 
-[Code here](https://github.com/abhinaya08/text_analytics/blob/master/Project/2_Lift/)
+[Code here](https://github.com/tiffblahthegiraffe/IBMreview_textanalysis/blob/master/2_Lift.ipynb)
 
 ### 3. Topic Modeling
 
 We used LDA to do model for topics in unstructured review data. This helps us in identifying what employees percieve to be the positives and negatives of their respective companies
 
-[Code here](https://github.com/abhinaya08/text_analytics/blob/master/Project/3_Topic%20Modeling.ipynb)
+[Code here](https://github.com/tiffblahthegiraffe/IBMreview_textanalysis/blob/master/3_Topic%20Modeling.ipynb)
 
 ### 4. Cosine Similarity
 
 Comparing company values to positive and negative reviews on Glassdoor. This enables us to classify the sentiment associated with company values. 
 
-[Code here](https://github.com/abhinaya08/text_analytics/blob/master/Project/4_Sentiment%20and%20cosine%20similarity.ipynb)
+[Code here](https://github.com/tiffblahthegiraffe/IBMreview_textanalysis/blob/master/4_Sentiment%20and%20cosine%20similarity.ipynb)
 
 ### 5. Sentiment Analysis
 
@@ -54,7 +54,7 @@ How do employees across job titles and locations feel about the company?
 
 We combine the positive and negative ratings to get a true assessment of employee sentiment
 
-[Code here](https://github.com/abhinaya08/text_analytics/blob/master/Project/4_Sentiment%20and%20cosine%20similarity.ipynb)
+[Code here](https://github.com/tiffblahthegiraffe/IBMreview_textanalysis/blob/master/4_Sentiment%20and%20cosine%20similarity.ipynb)
 
 ## Insights
 
