@@ -61,4 +61,4 @@ We combine the positive and negative ratings to get a true assessment of employe
 
 ## Insights
 
-[Here](https://github.com/abhinaya08/text_analytics/blob/master/Project/glassdoor%20ppt%20md.pdf)
+[Here](https://github.com/tiffblahthegiraffe/IBMreview_textanalysis/blob/master/IBM%20Glassdoor%20review.pdf)
